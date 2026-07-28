@@ -9,6 +9,14 @@ A reusable AI Agent Skill for building, repairing, reviewing, and explaining Mon
 
 The skill helps AI coding agents understand ARGO formulas, troubleshoot workbooks, validate simulation models, and apply Monte Carlo best practices for engineering, construction, finance, and risk analysis.
 
+## Credits
+
+This project builds upon the excellent work of the original ARGO team at Booz Allen Hamilton.
+
+If you use ARGO in your work, please also consider supporting and referencing the original project:
+
+https://github.com/boozallen/argo
+
 ## Who is this for?
 
 This skill is intended for:
