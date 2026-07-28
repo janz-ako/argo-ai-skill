@@ -1,0 +1,13 @@
+{
+  "valid_candidates": [
+    "=RtaTriangular(F5,D5,G5,ValName(\"A5\"),ValPointEstimate(D5))",
+    "=RtaNormal(0,1,ValLowerBound(-2),ValUpperBound(2))",
+    "=RtaBernoulli(1000000,0.15,ValName(\"Permit delay\"))"
+  ],
+  "invalid_candidates": [
+    "=@RtaTRIANGULAR(F5,D5,G5:ValNAME(\"A5\"):ValPOINTESTIMATE(D5))",
+    "=RtaTriangular(10,5,8)",
+    "=RtaBernoulli(100,1.5)",
+    "=RtaUniform(20,10)"
+  ]
+}

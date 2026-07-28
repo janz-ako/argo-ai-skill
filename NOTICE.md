@@ -1,9 +1,6 @@
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-![Claude Code](https://img.shields.io/badge/Claude-Code-blue)
-![Codex](https://img.shields.io/badge/OpenAI-Codex-black)
-![Status](https://img.shields.io/badge/status-active-success)
+MIT License
 
-Copyright (c) 2026 Akos Janza
+Copyright (c) 2026 janz-ako
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,7 +8,6 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
