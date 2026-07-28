@@ -48,6 +48,24 @@ This skill is intended for:
 └── NOTICE.md
 ```
 
+## Relationship to ARGO
+
+This project is an independent AI skill for working with the
+[Booz Allen Hamilton ARGO](https://github.com/boozallen/argo)
+Excel Monte Carlo add-in.
+It is designed to help AI coding agents understand, review,
+repair, and explain ARGO models. It is **not** a replacement
+for ARGO and does not contain the ARGO software.
+For the original software, documentation, and source code,
+please visit:
+
+https://github.com/boozallen/argo
+
+Many of the modelling concepts and function names referenced
+by this skill originate from the ARGO project. This repository
+contains original documentation, workflows, examples, and
+supporting code created specifically for AI agents.
+
 ## Installation
 
 ### Claude Code (Personal)

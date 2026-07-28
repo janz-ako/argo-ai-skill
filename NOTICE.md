@@ -1,6 +1,6 @@
-MIT License
+MIT license 
 
-Copyright (c) 2026 janz-ako
+Copyright (c) 2026 Ákos Janza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,3 +18,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Notice
+This project is an independent community-developed AI skill.
+It is not affiliated with, endorsed by, or sponsored by Booz Allen Hamilton.
+The ARGO name is used solely to describe compatibility with the original ARGO Excel Monte Carlo add-in.
+
+Original ARGO project:
+https://github.com/boozallen/argo
+
+This repository does not include the ARGO application, installers, binaries, or source code.
